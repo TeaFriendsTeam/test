@@ -4,9 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
 
 import android.os.Bundle;
-import android.text.Layout;
 import android.view.View;
-import android.view.Window;
 import android.widget.TextView;
 
 import java.util.Random;
